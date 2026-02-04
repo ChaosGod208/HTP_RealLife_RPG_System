@@ -111,8 +111,6 @@ Descriptive tiers of daily pattern quality:
 
 ## 🔗 Original Gist
 
-HTP Real-Life RPG System — [Gist Version](https://gist.github.com/ChaosGod208/6a60f368ce6c744529400e5c05a52e0c) 
-
 Full archive: [ChaosGod208 gist](https://gist.github.com/ChaosGod208)
 
 **Made with raw insight & zero corporate fluff.**  
